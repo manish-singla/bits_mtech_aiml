@@ -1,0 +1,6 @@
+*.csv
+*xlsx
+*.log
+*cache*
+*.pdf
+*.zip
